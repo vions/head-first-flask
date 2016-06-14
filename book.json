@@ -33,7 +33,7 @@
     "plugins": [""],
     "pluginsConfig": {
         "theme-default": {
-            "show-level": true
+            "showLevel": true
         }
     },
     "title": "head first flask",
