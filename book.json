@@ -31,6 +31,11 @@
         "paperSize": "a4"
     },
     "plugins": [""],
+    "pluginsConfig": {
+        "theme-default": {
+            "show-level": true
+        }
+    },
     "title": "head first flask",
     "variables": {}
 }
