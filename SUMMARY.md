@@ -1,7 +1,7 @@
 # Summary
 
 - [前言](README.md)
-- 基本安装](chapter01/README.md)
+- [基本安装](chapter01/README.md)
     * [全局安装](chapter01/section1.1.md)
     * [使用 virtualenvwrapper](chapter01/section1.2.md)
 - [快速入门](chapter02/README.md)
