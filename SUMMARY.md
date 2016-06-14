@@ -1,11 +1,13 @@
 0. [前言](README.md)
 
 1. [基本安装](chapter01/README.md)
+
     1.1 [全局安装](chapter01/section1.1.md)
 
     1.2 [使用 virtualenvwrapper](chapter01/section1.2.md)
 
 2. [快速入门](chapter02/README.md)
+
     2.1 [一个最简单的应用](chapter02/section2.1.md)
 
     2.2 [路由和视图](chapter02/section2.2.md)
@@ -31,6 +33,7 @@
 3. [flask 实战](chapter03/README.md)
 
 4. [结束语](chapter04/README.md)
+
     4.1 [参考资料](chapter04/section4.1.md)
 
     4.2 [flask 资源推荐](chapter04/section4.2.md)
