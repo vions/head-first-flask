@@ -1,10 +1,8 @@
 # Summary
 
-- [前言](README.md)
-- [基本安装](chapter01/README.md)
-    * [全局安装](chapter01/section1.1.md)
-    * [使用 virtualenvwrapper](chapter01/section1.2.md)
-- [快速入门](chapter02/README.md)
+* [前言](README.md)
+* [基本安装](chapter01/README.md)
+* [快速入门](chapter02/README.md)
     * [一个最简单的应用](chapter02/section2.1.md)
     * [路由和视图](chapter02/section2.2.md)
     * [静态文件](chapter02/section2.3.md)
@@ -16,7 +14,8 @@
     * [RESTful](chapter02/section2.9.md)
     * [项目结构规范](chapter02/section2.10.md)
     * [部署](chapter02/section2.11.md)
-- [flask 实战](chapter03/README.md)
-- [结束语](chapter04/README.md)
+* [flask 实战](chapter03/README.md)
+* [结束语](chapter04/README.md)
     * [参考资料](chapter04/section4.1.md)
     * [flask 资源推荐](chapter04/section4.2.md)
+
