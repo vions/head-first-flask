@@ -26,7 +26,7 @@ $ sudo pip install flask
 ```
 
 
-## Hello World
+## 一个最简单的例子：Hello World
 
 新建一个脚本文件，比如 `hello.py`。
 
