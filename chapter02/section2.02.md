@@ -34,7 +34,7 @@ def hello():
 可以看到，上面两个路由的功能是当用户访问 `https://hello.com/<user_name>` 时，网页显示对该用户的问候。按上面的写法，如果对每个用户都需要写一个路由，那么 100 个用户岂不是要写 100 个路由！这当然是不能忍受的，实际上一个路由就够了！且看下面：
 
 ```python
-@app.route("/user_name")
+@app.route("/<user_name>")
 def hello(user_name):
     return '<h1>Hello, %s!</h1>' % user_name
 ```
