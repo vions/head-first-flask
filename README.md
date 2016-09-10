@@ -1,4 +1,4 @@
-Head first Flask
+Flask Web 开发入门
 ===
 
 ## Flask 简介
@@ -12,6 +12,13 @@ Python 中有许多 [Web 开发框架](https://wiki.python.org/moin/WebFramework
 
 本书主要介绍了 Flask 的大部分功能，这也是我在学习 Flask 过程中经常要用到的。我也希望读者能通过本书快速掌握 Flask 的基本功能，快速构建出自己的 Web 服务。阅读本书可能需要读者掌握基本的 Python 语法知识，以及简单的 HTML 语法。
 
+本书主要分为四个章节：
+
+第 1 章：主要介绍 Flask 的安装和快速使用。
+第 2 章：主要介绍 Flask 的基本使用方法，学习本章后，读者基本可以对 Flask 有个清晰的认识。
+第 3 章：Flask 实战，介绍了如何开发一个 Web TODO 应用。
+第 4 章：结束语，以及一些相关的参考资料。
+
 
 ## 声明
 
@@ -21,6 +28,16 @@ Python 中有许多 [Web 开发框架](https://wiki.python.org/moin/WebFramework
 
 1. 保持署名
 2. 不对本书进行修改
+
+## 更新记录
+
+### Version 1.0
+
+
+| 时间 | 说明 |
+| --- | --- |
+| 2016-08-22 | 基本完成初稿 |
+| 2016-09-10 | 发布版本 v1.0 |
 
 ## 联系我
 
