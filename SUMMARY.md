@@ -17,4 +17,5 @@
     * [编写业务逻辑](chapter03/section3.03.md)
 * [结束语](chapter04/README.md)
     * [参考资料](chapter04/section4.1.md)
+    * [Flask 资源推荐](chapter04/section4.2.md)
 
