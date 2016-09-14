@@ -1,4 +1,4 @@
-![cover](https://raw.githubusercontent.com/ethan-funny/head-first-flask/master/cover.jpg)
+![cover](https://raw.githubusercontent.com/ethan-funny/head-first-flask/master/cover_small.jpg)
 
 Flask Web 开发入门
 ===
