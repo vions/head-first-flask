@@ -1,3 +1,5 @@
+![cover](https://raw.githubusercontent.com/ethan-funny/head-first-flask/master/cover.jpg)
+
 Flask Web 开发入门
 ===
 
