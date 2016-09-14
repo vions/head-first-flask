@@ -1,5 +1,5 @@
 {
-    "author": "funhacks",
+    "author": "ethan-funny",
     "description": "introduction to flask web development",
     "extension": null,
     "generator": "site",
@@ -12,7 +12,7 @@
             "weibo": null
         },
         "sidebar": {
-            "funhacks's Blog": "http://funhacks.net"
+            "ethan-funny's Blog": "http://funhacks.net"
         }
     },
     "output": null,
@@ -36,6 +36,6 @@
             "showLevel": false
         }
     },
-    "title": "flask 深入浅出",
+    "title": "Flask Web 开发入门",
     "variables": {}
 }
